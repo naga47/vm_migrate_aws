@@ -224,13 +224,6 @@ Using `VM Import` migrate your existing VM-based applications and preserve the s
 
     Once you launch the VM, you can login using the same `uid`/`password` you used onpremise. Typically in real-world you will clean this before the import task and setup SSH key-based authentication
 
-## Support
-
-Please open a [GitHub issue](https://github.com/miztiik/server-migration-onprem-to-aws/issues/new).
-
-## Feedback
-
-Please open a [GitHub issue](https://github.com/miztiik/server-migration-onprem-to-aws/issues/new). I encourage you to contribute your changes and send me pull request.
 
 ##### References
 
